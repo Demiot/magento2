@@ -73,7 +73,13 @@ atlassian*
 
 /app/code/*
 !/app/code/Magento
+/app/code/Magento/PageBuilder/*
 /app/code/Magento/_metapackage/*
+/app/code/Magento/AwsS3PageBuilder/*
+/app/code/Magento/CatalogPageBuilderAnalytics/*
+/app/code/Magento/PageBuilderAdminAnalytics/*
+/app/code/Magento/CmsPageBuilderAnalytics/*
+/app/code/Magento/PageBuilderAnalytics/*
 /app/design/frontend/*
 /pub/media/*
 /lib/*
@@ -99,4 +105,3 @@ index.php
 .htaccess
 M2-crawler.sh
 migration.sh
-.htaccess
