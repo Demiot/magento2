@@ -50,7 +50,7 @@ class SqlVersionProviderTest extends TestCase
     private $supportedVersionPatterns = [
         'MySQL-8' => '^8\.0\.',
         'MySQL-5.7' => '^5\.7\.',
-        'MariaDB-(10.2-10.4)' => '^10\.[2-4]\.'
+        'MariaDB-(10.2-10.4)' => '^10\.[2-4]\.|^10\.1\.48'
     ];
 
     /**
