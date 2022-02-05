@@ -80,6 +80,8 @@ atlassian*
 /app/code/Magento/PageBuilderAdminAnalytics/*
 /app/code/Magento/CmsPageBuilderAnalytics/*
 /app/code/Magento/PageBuilderAnalytics/*
+/app/design/adminhtml/*
+/app/desig/adminhtml/Magento
 /app/design/frontend/*
 !/app/design/frontend/Magento
 /pub/media/*
